@@ -1,1 +1,1 @@
-# Drive-Picture
+# Googleドライブを用いて、Googleフォトのように使えるようにしたい。
